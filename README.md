@@ -10,7 +10,7 @@ Building pipelines and ML tools at the intersection of immunology and data engin
 
 | Project | Description |
 |---|---|
-| [PureGate](https://github.com/jluthy/PureGate) | Marker-free ensemble classifier (RF + KNN stacking) for imaging cytometry. Classifies debris, singlets, and multiplets using only morphology/scatter features — no fluorescent markers required. Basis of a pending U.S. patent (BD). 98.57% accuracy on FACSDiscover S8 data. |
+| [PureGate](https://github.com/jluthy/PureGate) | Marker-free ensemble classifier (RF + KNN stacking) for imaging cytometry. Classifies debris, singlets, and multiplets using only morphology/scatter features — no fluorescent markers required. Basis of a published U.S. patent application (Pub. No. US 2025/0297940, BD). 98.57% accuracy on FACSDiscover S8 data. |
 | [TCR Diversity Analysis](https://github.com/jluthy/tcr-diversity-analysis) | End-to-end TCR repertoire pipeline modeled on clinical trial workflows. Clonotype tracking, diversity metrics, and longitudinal expansion analysis using synthetic data. |
 | [Portfolio](https://jluthy.github.io) | Full profile, publications, and project showcase. |
 
@@ -19,7 +19,7 @@ Building pipelines and ML tools at the intersection of immunology and data engin
 ### Background
 
 - **Bioinformatics Application Scientist** at Becton Dickinson (FlowJo) · 8+ years
-- **Sole named inventor** — U.S. Patent Application No. 19/086,723, *"Methods and Systems for Classifying Analyte Data"* (pending, assigned to BD)
+- **Sole named inventor** — U.S. Patent Application No. 19/086,723, Pub. No. US 2025/0297940, *"Methods and Systems for Classifying Analyte Data"* (published, assigned to BD)
 - **Published researcher** — *Frontiers in Immunology* (2022, x2)
 - **M.S. Data Science** — Eastern University (2024) · **B.S. Chemistry** — Texas State University
 
